@@ -1,6 +1,10 @@
 # GoTrainingJune2023
 Go language Training
 
+
+[![Udhay's GitHub activity graph](https://img.shields.io/github/commit-activity/m/udhayprakash/udhayprakash?label=Commit%20Activity&logo=github&style=flat-square)](https://github.com/udhayprakash/GoTrainingJune2023)
+
+
 ## Course Content Covered
 
 
