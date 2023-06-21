@@ -4,20 +4,27 @@ Go language Training
 ## Course Content Covered
 
 
-### [Class 01 - 15th June, 2023]()
+### [Class 00 - 14th June, 2023](https://youtu.be/Xo9kNfZX_qM)
+    Demo
+
+### [Class 01 - 15th June, 2023](https://youtu.be/6R1vTqxr9uo)
 
     Chapter 01: Introduction
                 Necessity & importance of Golang
                 Installation setup
                 comment operators
 
-### NEXT CLASS
+### [Class 02 - 21th June, 2023]()
 
             Keywords & Identifiers
             Data Types in Golang
 
     Chapter 02: Variables
             Variables & Declarations
+            Package-level and Function-level
+
+### NEXT CLASS
+
             Constants
             Overflow
             Enumerations
