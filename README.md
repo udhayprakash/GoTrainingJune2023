@@ -18,7 +18,7 @@ Go language Training
                 Installation setup
                 comment operators
 
-### [Class 02 - 21th June, 2023]()
+### [Class 02 - 21th June, 2023](https://youtu.be/PT3Qea9GMkw)
 
             Keywords & Identifiers
             Data Types in Golang
@@ -27,9 +27,12 @@ Go language Training
             Variables & Declarations
             Package-level and Function-level
 
-### NEXT CLASS
+### [Class 03 - 22nd June, 2023]()
 
             Constants
+            type checking
+
+### NEXT CLASS
             Overflow
             Enumerations
             Zero values
