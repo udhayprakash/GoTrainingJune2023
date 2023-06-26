@@ -27,18 +27,20 @@ Go language Training
             Variables & Declarations
             Package-level and Function-level
 
-### [Class 03 - 22nd June, 2023]()
+### [Class 03 - 22nd June, 2023](https://youtu.be/SuCPNGdMLeI)
 
             Constants
             type checking
 
-### NEXT CLASS
+### [Class 04 - 26th June, 2023]()
             Overflow
             Enumerations
             Zero values
             Type conversions
             Custom Type Creation
             Run-Time Input
+
+### NEXT CLASS
 
     Chapter 03: Basics
             Arithmetic Operations
