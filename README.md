@@ -36,6 +36,8 @@ Go language Training
             Overflow
             Enumerations
             Zero values
+
+### [Class 05 - 28th June, 2023]()
             Type conversions
             Custom Type Creation
             Run-Time Input
